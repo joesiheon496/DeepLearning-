@@ -3,6 +3,7 @@
 |어떨때 사용하는지|링크|
 |---------------|----|
 |Pandas DataFrame에서 문자가 포함되어 있는 행 제거|[링크](https://github.com/joesiheon496/DeepLearning-/blob/master/Pandas/%EB%AC%B8%EC%9E%90%EA%B0%80%20%ED%8F%AC%ED%95%A8%EB%90%98%EC%96%B4%20%EC%9E%88%EB%8A%94%20%ED%96%89%20%EC%A0%9C%EC%99%B8.md)|
+|DataFrame에서 re.sub과 같은 기능|[링크](https://github.com/joesiheon496/DeepLearning-/blob/master/Pandas/DataFrame%EC%97%90%EC%84%9C%20re.sub%EA%B3%BC%20%EA%B0%99%EC%9D%80%20%EA%B8%B0%EB%8A%A5.md)|
 ## Numpy
 |어떨때 사용하는지|링크|
 |---------------|----|
