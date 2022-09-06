@@ -10,3 +10,14 @@ pd.concat(['df1','df2'],axis = 0,ignore_index=True) # axis = 0 은 아래로 붙
 ```python
 pd.concat(['df1','df2'],axis = 0,ignore_index=True)
 ```
+
+**여러개를 합치고 싶은 경우**
+```python
+df1 = pd.DataFrame()
+df2 = pd.DataFrame()
+df3 = pd.DataFrame()
+
+df_list = [df1, df2, df3]
+df_all = pd.concat(df_list, ignore_index=True)
+df_all
+```
