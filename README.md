@@ -15,6 +15,7 @@
 |---------------|----|
 |for문으로 변수생성|[링크](https://github.com/joesiheon496/Preprocessing-Method/blob/master/Python/for%EB%AC%B8%EC%9C%BC%EB%A1%9C%20%EB%B3%80%EC%88%98%EC%83%9D%EC%84%B1.md)|
 |dictionary 값을 리스트로 변환|[링크](https://github.com/joesiheon496/DeepLearning-/blob/master/Python/Dictionary%20%EA%B0%92%20list%EB%A1%9C%20%EB%B3%80%ED%99%98.md)|
+|인덱스 관리|[링크](https://github.com/joesiheon496/Preprocessing-Method/blob/master/Python/%EC%9D%B8%EB%8D%B1%EC%8A%A4%EA%B4%80%EB%A6%AC.md)|
 
 ## 정규표현식
 |어떨때 사용하는지|링크|
