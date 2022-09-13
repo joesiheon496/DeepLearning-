@@ -14,7 +14,7 @@
 ## Pytorch
 |어떨때 사용하는지|링크|
 |---------------|----|
-|대각선에 1이 있는 벡터 생성|[링크]()|
+|대각선에 1이 있는 벡터 생성|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pytorch/torch.eye.md)|
 
 ## Python
 |어떨때 사용하는지|링크|
