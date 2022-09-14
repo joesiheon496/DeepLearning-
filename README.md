@@ -8,7 +8,7 @@
 |컬럼명 변경|[링크](https://github.com/joesiheon496/Preprocessing-Method/blob/master/Pandas/%EC%BB%AC%EB%9F%BC%EB%AA%85%20%EB%B3%80%EA%B2%BD.md)|
 |지정값 위치 반환|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%A7%80%EC%A0%95%EC%9C%84%EC%B9%98%EA%B0%92%20%EB%B0%98%ED%99%98.md)
 |Pandas 열값을 문자열로 반환|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/Pandas%20%EC%97%B4%EA%B0%92%EC%9D%84%20%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%20%EB%B0%98%ED%99%98.md)|
-|열에 NaN값 추출|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%97%B4%EC%97%90%20NaN%EA%B0%92%20%EC%B6%94%EC%B6%9C.md)|
+|열에 NaN값 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%97%B4%EC%97%90%20NaN%EA%B0%92%20%EC%B6%94%EC%B6%9C.md)|
 
 ## Numpy
 |어떨때 사용하는지|링크|
