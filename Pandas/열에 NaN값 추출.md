@@ -6,3 +6,8 @@ df[df['A'].isnull()]
 ```python
 df[df['A'].isnull() == False]
 ```
+전에했던
+```python
+sample_train = sample_train[sample_train.A_abstract.str.contains("")==False]
+```
+로도 해결가능
