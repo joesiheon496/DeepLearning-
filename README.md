@@ -15,6 +15,7 @@
 ## Numpy
 |어떨때 사용하는지|링크|
 |---------------|----|
+|배열을 복사하고 붙여넣는 방법|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Numpy/%EB%B0%B0%EC%97%B4%EC%9D%84%20%EB%B3%B5%EC%82%AC%ED%95%98%EA%B3%A0%20%EB%B6%99%ED%98%80%EB%84%A3%EB%8A%94%20%EB%B0%A9%EB%B2%95.md)|
 
 ## Pytorch
 |어떨때 사용하는지|링크|
