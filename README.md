@@ -11,7 +11,7 @@
 |열에 NaN값 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%97%B4%EC%97%90%20NaN%EA%B0%92%20%EC%B6%94%EC%B6%9C.md)|
 |판다스 인덱스 행 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%ED%8C%90%EB%8B%A4%EC%8A%A4%ED%96%89%EC%A0%9C%EA%B1%B0.md)|
 |Pandas Split 기능|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/Pandas%20Split%20%EA%B8%B0%EB%8A%A5.md)|
-|교집합|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Python/%EA%B5%90%EC%A7%91%ED%95%A9.py)|
+|교집합|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EA%B5%90%EC%A7%91%ED%95%A9.py)|
 
 ## Numpy
 |어떨때 사용하는지|링크|
