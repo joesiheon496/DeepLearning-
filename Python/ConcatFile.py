@@ -1,5 +1,5 @@
 import os
-forders = os.listdir('D:/patent_dataset/0928crawlingdata')
+forders = os.listdir('파일위치')
 
 df_all_data = pd.DataFrame()
 
