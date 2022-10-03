@@ -12,7 +12,7 @@
 |판다스 인덱스 행 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%ED%8C%90%EB%8B%A4%EC%8A%A4%ED%96%89%EC%A0%9C%EA%B1%B0.md)|
 |Pandas Split 기능|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/Pandas%20Split%20%EA%B8%B0%EB%8A%A5.md)|
 |교집합|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EA%B5%90%EC%A7%91%ED%95%A9.py)|
-|저장시 인덱스 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/tree/master/Pandas)|
+|저장시 인덱스 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%A0%80%EC%9E%A5%EC%8B%9C%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%9C%EA%B1%B0.py)|
 
 ## Numpy
 |어떨때 사용하는지|링크|
