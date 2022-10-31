@@ -36,6 +36,7 @@
 |폴더에 있는 파일들 다합치기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Python/ConcatFile.py)|
 |하나의 리스트에서 조합 계산|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Python/%ED%95%98%EB%82%98%EC%9D%98%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C%20%EC%A1%B0%ED%95%A9%20%EA%B3%84%EC%82%B0.py)|
 |두개 이상의 리스트에서 조합 계산|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Python/%EB%91%90%EA%B0%9C%20%EC%9D%B4%EC%83%81%EC%9D%98%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%9D%98%20%EB%AA%A8%EB%93%A0%20%EC%A1%B0%ED%95%A9%20%EA%B5%AC%ED%95%98%EA%B8%B0.py)|
+|라벨 인코더|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Python/LabelEncoder.py)|
 
 
 ## 정규표현식
