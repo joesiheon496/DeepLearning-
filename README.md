@@ -22,6 +22,7 @@
 |DataFrame을 Numpy 배열 형식 변환|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Numpy/DataFrame%EC%9D%84%20Numpy%20%EB%B0%B0%EC%97%B4%EB%A1%9C%20%EB%B3%80%ED%99%98.md)|
 |string 2 numpy|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Numpy/string2numpy.py)|
 |[:,0],[:,1]의 의미|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Numpy/%5B:%2C0%5D%2C%5B:%2C1%5D%EC%9D%98%20%EC%9D%98%EB%AF%B8.py)|
+|pandas 조건행 추출.py|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/pandas%20%EC%A1%B0%EA%B1%B4%ED%96%89%20%EC%B6%94%EC%B6%9C.py)|
 
 ## Pytorch
 |어떨때 사용하는지|링크|
