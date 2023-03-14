@@ -16,6 +16,7 @@
 |pandas 행에 numpy 배열 넣기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/pandas%20%ED%96%89%EC%97%90%20numpy%20%EB%B0%B0%EC%97%B4%20%EB%84%A3%EA%B8%B0.md)|
 |데이터 프레임에서 같은 id끼리 묶기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%EC%84%9C%20%EA%B0%99%EC%9D%80%20id%EB%81%BC%EB%A6%AC%20%EB%AC%B6%EA%B8%B0.md)|
 |개수가 다른 여러 리스트를 데이터 프레임으로 만들기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B0%9C%EC%88%98%EA%B0%80%20%EB%8B%A4%EB%A5%B8%20%EC%97%AC%EB%9F%AC%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC%20%ED%95%A8%EC%88%98%EB%A1%9C%20%EB%AC%B6%EA%B8%B0.md)|
+|인덱스 꺼내서 열로 만들기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EA%BA%BC%EB%82%B4%EC%84%9C%20%EC%97%B4%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)|
 
 ## Numpy
 |어떨때 사용하는지|링크|
