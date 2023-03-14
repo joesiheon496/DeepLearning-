@@ -14,6 +14,7 @@
 |교집합|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EA%B5%90%EC%A7%91%ED%95%A9.py)|
 |저장시 인덱스 제거|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EC%A0%80%EC%9E%A5%EC%8B%9C%20%EC%9D%B8%EB%8D%B1%EC%8A%A4%20%EC%A0%9C%EA%B1%B0.py)|
 |pandas 행에 numpy 배열 넣기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/pandas%20%ED%96%89%EC%97%90%20numpy%20%EB%B0%B0%EC%97%B4%20%EB%84%A3%EA%B8%B0.md)|
+|데이터 프레임에서 같은 id끼리 묶기|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pandas/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%94%84%EB%A0%88%EC%9E%84%EC%97%90%EC%84%9C%20%EA%B0%99%EC%9D%80%20id%EB%81%BC%EB%A6%AC%20%EB%AC%B6%EA%B8%B0.md)|
 
 ## Numpy
 |어떨때 사용하는지|링크|
