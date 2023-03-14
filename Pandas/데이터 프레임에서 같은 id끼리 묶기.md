@@ -1,4 +1,4 @@
-'''python
+```python
 import pandas as pd
 
 # Sample data
@@ -11,4 +11,4 @@ df = pd.DataFrame(data)
 grouped = df.groupby(['id'])['value'].apply(list).reset_index(name='new_value')
 
 print(grouped)
-'''
+```
