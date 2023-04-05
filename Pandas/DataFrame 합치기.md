@@ -21,3 +21,9 @@ df_list = [df1, df2, df3]
 df_all = pd.concat(df_list, ignore_index=True)
 df_all
 ```
+
+```python
+df1.combine_first(df2)
+```
+
+제일좋음
