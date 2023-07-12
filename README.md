@@ -31,6 +31,7 @@
 |어떨때 사용하는지|링크|
 |---------------|----|
 |대각선에 1이 있는 벡터 생성|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pytorch/torch.eye.md)|
+|시계열 데이터의 횟수들이 달라요|[링크](https://github.com/joesiheon496/Preprocessing_code/blob/master/Pytorch/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%9D%98%20%ED%9A%9F%EC%88%98%EB%93%A4%EC%9D%B4%20%EB%8B%AC%EB%9D%BC%EC%9A%94.md)|
 
 ## Python
 |어떨때 사용하는지|링크|
